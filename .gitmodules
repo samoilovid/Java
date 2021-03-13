@@ -1,0 +1,12 @@
+[submodule "task_1"]
+	path = task_1
+	url = https://github.com/samoilovid/task_1.git
+[submodule "task_2"]
+	path = task_2
+	url = https://github.com/samoilovid/task_2.git
+[submodule "task_3"]
+	path = task_3
+	url = https://github.com/samoilovid/task_3.git
+[submodule "task_4"]
+	path = task_4
+	url = https://github.com/samoilovid/task_4.git
